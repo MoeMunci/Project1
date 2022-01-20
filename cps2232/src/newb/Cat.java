@@ -66,8 +66,8 @@ public class Cat {
 		
 		System.out.println(numberOfCats);
 		Cat myCat1 = new Cat();
-		Cat myCat2 = new Cat(Color2.LILAC, "Feral");
-		Cat myCat3 = new Cat("Cutie", );
+		Cat myCat2 = new Cat("Feral");
+		Cat myCat3 = new Cat("Cutie");
 		
 	}
 
